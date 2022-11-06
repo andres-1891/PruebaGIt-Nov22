@@ -10,6 +10,7 @@
 
 	<h1>GIT</h1>
 	<h2>Nuevo GIT 2</h2>
+	<h3>otro titulo</h3>
 
 </body>
 </html>
